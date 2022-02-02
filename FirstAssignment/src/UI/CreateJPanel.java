@@ -392,7 +392,7 @@ public class CreateJPanel extends javax.swing.JPanel {
         //validation for Year
         if (TextFieldYear.getText().length() != 4) {
             JOptionPane.showMessageDialog(this, "Enter valid year, "
-                    + "year should be of exact 4digits");
+                    + "year should be of exact 4 digits");
             return;
         }
         //validation for seat Number
@@ -402,9 +402,9 @@ public class CreateJPanel extends javax.swing.JPanel {
             return;
         }
         //validation for warrenty year
-        if (TextFieldSeatNumber.getText().length() != 4) {
-            JOptionPane.showMessageDialog(this, "Enter valid year, "
-                    + "year should be of exact 4digits");
+        if (TextFieldWarrantyYear.getText().length() != 4) {
+            JOptionPane.showMessageDialog(this, "Enter valid warranty year, "
+                    + "year should be of exact 4 digits");
             return;
         }
 
