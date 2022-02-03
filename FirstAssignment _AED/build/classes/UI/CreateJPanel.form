@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="99" green="99" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="111" max="-2" attributes="0"/>
+              <Component id="jLabel1" pref="779" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="LabelownerAddress" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LabelPhoto" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LabelserviceRecords1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LabelwarrantyYear1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="TextFieldServicerecords" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldOwneraddress" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldWarrantyYear" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="jButtonImageUpload" alignment="0" min="-2" pref="151" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="LabelownerSocialSecurityNumber1" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="89" max="-2" attributes="0"/>
+                              <Component id="TextFieldOwnerSocialSecuritynumber" min="-2" pref="301" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="LabelownerDriverLicense" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="89" max="-2" attributes="0"/>
+                              <Component id="TextFieldOwnerDriverlicense" min="-2" pref="301" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="LabelownerEmailAddresses" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="89" max="-2" attributes="0"/>
+                              <Component id="TextFieldOwnerEmailaddresses" min="-2" pref="301" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="LabelBrand1" max="32767" attributes="0"/>
+                                  <Component id="LabelYear" max="32767" attributes="0"/>
+                                  <Component id="LabelModel" max="32767" attributes="0"/>
+                                  <Component id="LabelColor1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabellicensePlates" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabelEngineNo1" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="LabelSeatsNumber1" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabelOwnerName" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabelownerTelephoneNumbers" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="TextFieldOwnerTelephoneNumbers" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldOwnerName" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldLicensePlates" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldSeatNumber" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldEngineNo" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldYear" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldColor" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldModel" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                                  <Component id="TextFieldBrand" alignment="1" min="-2" pref="301" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="268" max="-2" attributes="0"/>
+                      <Component id="BtnSave" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="57" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="TextFieldBrand" max="32767" attributes="0"/>
+                  <Component id="LabelBrand1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldModel" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelModel" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                      <Component id="TextFieldColor" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="LabelColor1" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace type="unrelated" max="32767" attributes="0"/>
+                      <Component id="LabelYear" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="TextFieldYear" min="-2" pref="26" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="TextFieldEngineNo" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelEngineNo1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="TextFieldSeatNumber" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelSeatsNumber1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldLicensePlates" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabellicensePlates" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldOwnerName" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelOwnerName" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldOwnerTelephoneNumbers" alignment="3" min="-2" pref="29" max="-2" attributes="0"/>
+                  <Component id="LabelownerTelephoneNumbers" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldOwnerEmailaddresses" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelownerEmailAddresses" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldOwnerDriverlicense" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelownerDriverLicense" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="TextFieldOwnerSocialSecuritynumber" min="-2" pref="26" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="TextFieldOwneraddress" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="LabelownerSocialSecurityNumber1" min="-2" pref="26" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="LabelownerAddress" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelserviceRecords1" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="TextFieldServicerecords" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TextFieldWarrantyYear" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="LabelwarrantyYear1" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelPhoto" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="jButtonImageUpload" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Component id="BtnSave" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="TextFieldBrand">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TextFieldBrandActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldBrandKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldModel">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldModelKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldColor">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldColorKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldYear">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldYearKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldEngineNo">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldEngineNoKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldSeatNumber">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldSeatNumberKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldLicensePlates">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldLicensePlatesKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwnerTelephoneNumbers">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TextFieldOwnerTelephoneNumbersActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldOwnerTelephoneNumbersKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwnerName">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldOwnerNameKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwnerDriverlicense">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldOwnerDriverlicenseKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwnerEmailaddresses">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldWarrantyYear">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldWarrantyYearKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwnerSocialSecuritynumber">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldOwnerSocialSecuritynumberKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldOwneraddress">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldOwneraddressKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="BtnSave">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtnSaveActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TextFieldServicerecords">
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="TextFieldServicerecordsKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="                                                                       Create profile"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelModel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Model"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelBrand1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Brand"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelYear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Year"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelColor1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Color"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabellicensePlates">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="license Plates"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelEngineNo1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Engine No"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelSeatsNumber1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seats Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelOwnerName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelownerTelephoneNumbers">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Telephone Numbers"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelownerEmailAddresses">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Email Addresses"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelownerDriverLicense">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Driver License"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelownerAddress">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelownerSocialSecurityNumber1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner SocialSecurity Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelPhoto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Photo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelserviceRecords1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Service Records"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelwarrantyYear1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Warranty Year"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButtonImageUpload">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Upload image"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonImageUploadActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
